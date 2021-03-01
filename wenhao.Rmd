@@ -1,0 +1,14 @@
+---
+title: "Wenhao"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+*   Language: Mandarin / English
+*   Personality: Introversion / Sensing / Feeling / Perceiving  
+*   Economic student still struggling with Github...
+
