@@ -6,4 +6,4 @@ output: html_document
 Wenhao XIAO (Github: https://github.com/wx232)  
 R. Nicolas Lou (Github: https://github.com/nicolas931010)
 
-![Tough turf © Jarcosa/Getty](https://cn.bing.com/th?id=OHR.TurfHouse_EN-CN2756398853_1920x1200.jpg&rf=LaDigue_1920x1200.jpg)
+![Tough turf by Jarcosa/Getty](https://cn.bing.com/th?id=OHR.TurfHouse_EN-CN2756398853_1920x1200.jpg&rf=LaDigue_1920x1200.jpg)
